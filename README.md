@@ -22,4 +22,4 @@ export const api = axios.create({
 });
 
 ```
-`any questions send me a message via linkedin: Caique Nunes.`
+<p> any questions send me a message via linkedin: <a href="https://www.linkedin.com/in/caique-nunes-624720202/" target="_blank">Meu perfil</a></p>
