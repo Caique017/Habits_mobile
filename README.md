@@ -22,5 +22,4 @@ export const api = axios.create({
 });
 
 ```
-
 `any questions send me a message via linkedin: Caique Nunes.`
