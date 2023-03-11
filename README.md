@@ -11,7 +11,7 @@ Habit creation project to help you in everyday life.
 2. `npm install` to install project dependencies
 3. access your command prompt and run `expo start` and remembering you need to have expo installed on your machine, and on your device you will need to have `expo go`
 4. done that you will read the qr CODE that will appear in your terminal and run the application
-5. Always remembering that you also need to clone the <a href="https://github.com/Caique017/Habits_web">server</a> directory and leave it running in a separate terminal.
+5. Always remembering that you also need to clone the <a href="https://github.com/Caique017/Habits_web">server</a> and to run in terminal `npm run dev` directory and leave it running in a separate terminal.
 6. and finally you need to enter the src/lib/axios.ts directory and put your IP.
 
 ``` 
