@@ -25,7 +25,8 @@ export const api = axios.create({
 
 <video autoplay muted>
   <source src="./src/assets/Demonstração_Habits_mobile.mp4">
-
   </video>
+  
+  <p>The project itself helps you to be committed to something you have in mind and want to do like exercising at least four times a week, you can mark the days you trained and remember the days that passed and remind you what you did or not, remembering that the app doesn't let you change things that are in the past and has no limits to create new habits.</p>
   
 <p> any questions send me a message via linkedin: <a href="https://www.linkedin.com/in/caique-nunes-624720202/" target="_blank">My profile</a></p>
